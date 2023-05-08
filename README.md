@@ -1,8 +1,12 @@
 # Embeded-ai-emotion-detection
 This github repo consists of 3 files for our E6908 class. 
+
 Group Member:
+
 Sheng Shen {ss6635}
+
 Yufei Qian{yq2352}
+
 Qianyi Wu{qw2383}
 
 There are three files in the github repo:
